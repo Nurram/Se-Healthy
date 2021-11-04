@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Se-Healthy</string>
+    <string name="app_desc">Your 7 days diet planning app</string>
+    <string name="auth">auth</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_u"><u>Sign in</u></string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_u"><u>Sign up</u></string>
+    <string name="about_me">About</string>
+    <string name="incorrect_email_password">Incorrect email or password</string>
+    <string name="sign_up_msg">Sign up and start your progress</string>
+    <string name="email">Email address</string>
+    <string name="please_fill">Please fill all fields!</string>
+    <string name="enter_valid_email">Please enter a valid email!</string>
+    <string name="minimum_length_6">Minimum password length is 6!</string>
+    <string name="hello">Hello, %s</string>
+    <string name="logout"><u>Logout</u></string>
+    <string name="are_you_ready">Ready to start your progress?</string>
+    <string name="want_to_know">Want to know about diet?</string>
+    <string name="click_me">Click me</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="day_1">Day 1</string>
+    <string name="check_bmi">Keep your BMI checked!</string>
+    <string name="height">Height (CM)</string>
+    <string name="weight">Weight (KG)</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi_result">Your BMI result: %.0f \n(%s)</string>
+    <string name="about_diet">About diet</string>
+    <string name="about">Weight loss 7-day diet plan is a diet plan for a week. Each day diet come with striet rules about food groups that you can consume.
+For an example, weight lost plan day one is only limited to fruits only. While in days two, you can consume several vegetables which is raw or boiled vegetables.
+This weight lost 7-day diet plan supposed to help you to love up to 6,8kg (15 pounds) in just one week.
+This kind of diet say is works because many of the foods included in the diet that you consume are low calories and full of vitamin such as fruits and vegetables.
+Moreover, this can promote weight loss by creating a calories deficit that help you burn calories throughout the day. If you have any health problem, you need to see your doctor for the foods you can consume on this weight loss 7-days diet plan.</string>
+    <string name="day">Day %s</string>
+    <string name="recommended_schedule">Recommended Diet Schedule\n\n06:00 AM - wake up\n06:20 AM - drink 2 glass of water\n06:30 AM - workout\n07:30 AM - breakfast\n08:30 AM - free time\n10:00 AM - morning snack\n10:20 AM - doing your activities\n12:00 PM - lunch\n13:00 PM - doing your activities\n15:00 PM - snack time\n15:30 PM - workout\n16:30 PM - free time\n18:00 PM - dinner\n18:30 PM - doing your activities\n22:00 PM - sleep</string>
+    <string name="recommended_workout">Recommended workout steps\n</string>
+</resources>
